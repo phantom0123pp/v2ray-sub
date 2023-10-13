@@ -1,3 +1,8 @@
+folk from v2ray-worker-sub/
+study usage:
+https://jdssl.top/index.php/2023/07/05/mfbpcloudfare/
+
+
 ## اسکریپت ورکر برای ایجاد لینک ساب
 
 محتوای فایل اسکریپت را از مسیر dist دانلود کرده و در ورکر خود کپی کنید.
