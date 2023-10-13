@@ -1,7 +1,8 @@
 folk from v2ray-worker-sub/
 study usage:
 https://jdssl.top/index.php/2023/07/05/mfbpcloudfare/
-
+file content:
+https://raw.githubusercontent.com/leilei223/works/main/index.js
 
 ## اسکریپت ورکر برای ایجاد لینک ساب
 
